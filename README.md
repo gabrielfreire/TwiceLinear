@@ -1,0 +1,2 @@
+# TwiceLinear
+Code wars challenge
